@@ -19,6 +19,7 @@ https://trello.com/invite/b/6892b75732cfabfc43fc5d0c/ATTI0679088867681c608ab3e24
 
 ## Licencia
 
-Este proyecto está bajo la licencia [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+Este proyecto está bajo la licencia [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
