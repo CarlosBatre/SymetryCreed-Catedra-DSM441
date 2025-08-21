@@ -9,7 +9,8 @@ Alexander Antonio Valladares Alvarado  -  VA230394
 ### PRODUCT OWNER
 Carlos Josue Ruano Batres  -  RB230288
 ### DEVELOPERS
-Adriel Caleb Montano Lemus  -  ML232940 
+Adriel Caleb Montano Lemus  -  ML232940
+
 Carlos Mauricio López García  -  LG151035 
 
 ## TRELLO
