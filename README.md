@@ -16,6 +16,7 @@ Carlos Mauricio López García  -  LG151035
 ## TRELLO
 https://trello.com/invite/b/6892b75732cfabfc43fc5d0c/ATTI0679088867681c608ab3e24f883b60063D9A624B/primera-fase-proyecto
 
+## FIGMA MOCKUPS
 
 ## Licencia
 
