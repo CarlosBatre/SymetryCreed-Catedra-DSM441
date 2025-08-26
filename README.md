@@ -23,6 +23,7 @@ UI - https://www.figma.com/design/6SibiumLX0wi4Q5mH7MtW4/Untitled?node-id=0-1&p=
 
 ## DOCUMENTO
 
+[Fase01-Catedra-DSM441.pdf](https://github.com/user-attachments/files/21980269/Fase01-Catedra-DSM441.pdf)
 
 
 ## Licencia
